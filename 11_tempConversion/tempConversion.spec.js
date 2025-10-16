@@ -22,4 +22,6 @@ describe('convertToFahrenheit', () => {
   test('works with negatives', () => {
     expect(convertToFahrenheit(-10)).toEqual(14);
   });
+
+  //correction
 });
